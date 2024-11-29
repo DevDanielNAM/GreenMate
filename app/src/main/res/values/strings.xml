@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">그린메이트</string>
+    <string name="permission_confirm">권한 설정</string>
+    <string name="permission_cancel">취소</string>
+
+    <string name="notification_permission_title">[필수] 알림 설정</string>
+    <string name="notification_permission_description">스마트폰이 닫힌 상태에서도 지속적인 알림을 받을 수 있도록 알림 액세스를 허용해주세요.</string>
+    <string name="notification_permission_additional_instruction">[설정] -> [알림], [설정] -> [알람 및 리마인더] 모두 에서 권한을 설정해주세요.</string>
+
+    <string name="location_permission_title">[필수] 위치 정보</string>
+    <string name="location_permission_description">모듈 연결을 위해 블루투스 액세스를 허용해주세요.</string>
+    <string name="location_permission_additional_instruction">[설정] -> [권한] -> [위치]에서 권한을 설정해주세요.</string>
+
+    <string name="bluetooth_permission_title">[필수] 블루투스 정보</string>
+    <string name="bluetooth_permission_description">모듈 연결을 위해 블루투스 액세스를 허용해주세요.</string>
+    <string name="bluetooth_permission_additional_instruction">[설정] -> [권한] -> [근처 기기]에서 권한을 설정해주세요.</string>
+
+    <string name="camera_permission_title">[필수] 카메라 정보</string>
+    <string name="camera_permission_description">식물 인식을 위해 카메라 액세스를 허용해주세요.</string>
+    <string name="camera_permission_additional_instruction">[설정] -> [권한] -> [카메라]에서 권한을 설정해주세요.</string>
+
+    <string name="storage_permission_title">[필수] 저장공간 정보</string>
+    <string name="storage_permission_description">식물 사진을 읽고 저장하기 위해 저장공간 액세스를 허용해주세요.</string>
+    <string name="storage_permission_additional_instruction">[설정] -> [권한] -> [저장공간 또는 사진 및 동영상]에서 권한을 설정해주세요.</string>
+
+</resources>

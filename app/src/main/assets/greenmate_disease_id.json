@@ -1,0 +1,7 @@
+{
+    "001": {"eng":"anthracnose", "kor":"탄저병"},
+    "002": {"eng":"gray mold", "kor": "잿빛곰팡이"},
+    "003": {"eng":"powdery mildew", "kor": "흰가루병"},
+    "004": {"eng":"sooty mold", "kor": "그을음병"},
+    "005": {"eng":"leaf spot", "kor": "잎 반점"}
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.Greenmate" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground"> @color/transparent </item>
+        <item name="android:windowSplashScreenBrandingImage" tools:targetApi="S"> @drawable/splash_branding_img </item>
+        <item name="android:windowBackground">@drawable/splash</item>
+        <item name="postSplashScreenTheme">@style/Theme.Greenmate</item>
+    </style>
+
+    <style name="CustomAlertDialogTheme" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <!-- 다이얼로그 배경 -->
+        <item name="android:windowBackground">@drawable/dialog_background</item>
+        <!-- 타이틀 스타일 -->
+        <item name="android:windowTitleStyle">@style/CustomAlertDialogTitle</item>
+        <!-- 버튼 스타일 -->
+        <item name="buttonBarPositiveButtonStyle">@style/CustomAlertButtonStyle</item>
+        <item name="buttonBarNegativeButtonStyle">@style/CustomAlertButtonStyle</item>
+    </style>
+
+    <style name="CustomAlertDialogTitle" parent="Widget.AppCompat.Button.ButtonBar.AlertDialog">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:fontFamily">@font/dohyeon_regular</item>
+    </style>
+
+    <style name="CustomAlertButtonStyle" parent="Widget.AppCompat.Button.ButtonBar.AlertDialog">
+        <item name="android:textSize">14sp</item>
+        <item name="android:fontFamily">@font/spoqahansansneo_bold</item>
+    </style>
+        
+</resources>

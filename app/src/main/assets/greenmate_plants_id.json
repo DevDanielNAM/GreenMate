@@ -1,0 +1,1470 @@
+{
+    "001": {
+        "eng": "Blechnum gibbum",
+        "kor": "실버레이디 고사리"
+    },
+    "002": {
+        "eng": "Kalanchoe orgyalis",
+        "kor": "세무리아 (칼랑코에 코퍼스푼)"
+    },
+    "003": {
+        "eng": "Aphelandra squarrosa",
+        "kor": "아펠란드라"
+    },
+    "004": {
+        "eng": "Alocasia azlanii",
+        "kor": "알로카시아 아즈라니"
+    },
+    "005": {
+        "eng": "Tamarindus indica",
+        "kor": "타마린드"
+    },
+    "006": {
+        "eng": "Osteomeles anthyllidifolia var. subrotunda",
+        "kor": "산초 나무 (기산초)"
+    },
+    "007": {
+        "eng": "Ficus benjamina Barok variegated",
+        "kor": "무늬 바로크 벤자민"
+    },
+    "008": {
+        "eng": "Ficus microcarpa 'Ginseng'",
+        "kor": "인삼벤자민 (인삼팬더)"
+    },
+    "009": {
+        "eng": "Dracaena reflexa 'Song Of India'",
+        "kor": "드라세나 송오브인디아"
+    },
+    "010": {
+        "eng": "Asparagus myriocladus",
+        "kor": "아스파라거스 미리오클라두스"
+    },
+    "011": {
+        "eng": "Hedera helix 'Duck foot'",
+        "kor": "오리발 아이비"
+    },
+    "012": {
+        "eng": "Senecio barbertonicus",
+        "kor": "세네시오 히말라야"
+    },
+    "013": {
+        "eng": "Euphorbia lactea variegata",
+        "kor": "청하각금 (라임 고스트)"
+    },
+    "014": {
+        "eng": "Thaumatophyllum xanadu",
+        "kor": "제나두 셀렘"
+    },
+    "015": {
+        "eng": "Aglaonema 'White Joy'",
+        "kor": "아글라오네마 화이트 엔젤"
+    },
+    "016": {
+        "eng": "Daphne odora",
+        "kor": "천리향 (서향 나무)"
+    },
+    "017": {
+        "eng": "Euphorbia milii var. Splendens",
+        "kor": "꽃기린"
+    },
+    "018": {
+        "eng": "Pilosocereus chrysacanthus var.cristata",
+        "kor": "구름새 철화"
+    },
+    "019": {
+        "eng": "Cleistocactus strausii",
+        "kor": "백망룡 선인장 (취설주)"
+    },
+    "020": {
+        "eng": "Sedum takesimense 'Atlantis'",
+        "kor": "아틀란티스 세덤"
+    },
+    "021": {
+        "eng": "Pinguicula vulgaris",
+        "kor": "벌레잡이 제비꽃"
+    },
+    "022": {
+        "eng": "Sarracenia purpurea",
+        "kor": "퍼포리아 사라세니아"
+    },
+    "023": {
+        "eng": "Nepenthes alata",
+        "kor": "네펜데스 알라타 (벌레잡이 통풀)"
+    },
+    "024": {
+        "eng": "Drosera anglica",
+        "kor": "긴 잎 끈끈이 주걱"
+    },
+    "025": {
+        "eng": "Dionaea muscipula",
+        "kor": "파리지옥"
+    },
+    "026": {
+        "eng": "Euphorbia enopla Boiss",
+        "kor": "홍기린 (홍채각)"
+    },
+    "027": {
+        "eng": "Myrtillocactus geometrizans 'Fukurokuryuzinboku'",
+        "kor": "용비 선인장"
+    },
+    "028": {
+        "eng": "Hemionitis arifolia",
+        "kor": "하트펀 고사리 (헤미오니티스)"
+    },
+    "029": {
+        "eng": "Barringtonia asiatica  (house plant)",
+        "kor": "바링토니아 (담수 맹그로브)"
+    },
+    "030": {
+        "eng": "Alocasia rugosa 'Melo'",
+        "kor": "알로카시아 멜로"
+    },
+    "031": {
+        "eng": "Hedera helix",
+        "kor": "황금 무늬 송악 아이비 (문라이트 아이비)"
+    },
+    "032": {
+        "eng": "Ludisia discolor var. dawsoniana",
+        "kor": "해마리아 (보석란)"
+    },
+    "033": {
+        "eng": "Parthenocissus quinquefolia variegata 'Monham'",
+        "kor": "무늬 담쟁이"
+    },
+    "034": {
+        "eng": "Jatropha multifida",
+        "kor": "자트로파 물티피다"
+    },
+    "035": {
+        "eng": "Scindapsus pictus 'Exotica'",
+        "kor": "엔젤 스킨답서스"
+    },
+    "036": {
+        "eng": "Tradescantia albiflora 'Nanouk'",
+        "kor": "삼색 달개비"
+    },
+    "037": {
+        "eng": "Radermachera sinica",
+        "kor": "녹보수"
+    },
+    "038": {
+        "eng": "Rhapis excelsa variegata",
+        "kor": "서황금 (무늬 관음죽)"
+    },
+    "039": {
+        "eng": "Euphorbia lactea 'Cristata'",
+        "kor": "춘봉철화"
+    },
+    "040": {
+        "eng": "Peperomia clusiifolia",
+        "kor": "홍페페"
+    },
+    "041": {
+        "eng": "Zamioculcas zamiifolia Zenzi",
+        "kor": "보석 금전수"
+    },
+    "042": {
+        "eng": "Aglaonema 'Red Zircon'",
+        "kor": "아글라오네마 지리홍"
+    },
+    "043": {
+        "eng": "Aglaonema 'Angel'",
+        "kor": "아글라오네마 엔젤"
+    },
+    "044": {
+        "eng": "Pedilanthus tithymaloides 'Cucullatus'",
+        "kor": "대은룡 (천국의 계단)"
+    },
+    "045": {
+        "eng": "Adiantum raddianum",
+        "kor": "아디안텀"
+    },
+    "046": {
+        "eng": "Hatiora salicornioides",
+        "kor": "립살리스 뽀빠이"
+    },
+    "047": {
+        "eng": "Rhipsalis cassutha",
+        "kor": "립살리스 카스타"
+    },
+    "048": {
+        "eng": "Kalanchoe porphyrocalyx",
+        "kor": "칼랑코에 엔젤램프"
+    },
+    "049": {
+        "eng": "Euphorbia pulcherrima",
+        "kor": "포인세티아"
+    },
+    "050": {
+        "eng": "Costus speciosus variegata",
+        "kor": "무늬 코스터스"
+    },
+    "051": {
+        "eng": "Monstera adansonii variegata",
+        "kor": "무늬 아단소니 (몬스테라 아단소니 바리에가타)"
+    },
+    "052": {
+        "eng": "Syngonium podophyllum 'Mojito'",
+        "kor": "싱고니움 모히또"
+    },
+    "053": {
+        "eng": "Epipremnum aureum 'Manjula'",
+        "kor": "스킨답서스 오레우스 (스킨답서스 만줄라)"
+    },
+    "054": {
+        "eng": "Monstera standleyana",
+        "kor": "몬스테라 스탠들리아나 (위시본)"
+    },
+    "055": {
+        "eng": "Monstera karstenianum",
+        "kor": "몬스테라 카스테니안"
+    },
+    "056": {
+        "eng": "Philodendron 'Mayoi'",
+        "kor": "필로덴드론 마요이"
+    },
+    "057": {
+        "eng": "Alocasia 'Jacklyn'",
+        "kor": "알로카시아 잭클린"
+    },
+    "058": {
+        "eng": "Philodendron 'Prince Of Orange'",
+        "kor": "필로덴드론 '프린스 오브 오렌지' (선라이트 콩고)"
+    },
+    "059": {
+        "eng": "Philodendron 'Jose Buono'",
+        "kor": "필로덴드론 호세부오노"
+    },
+    "060": {
+        "eng": "Epipremnum aureum 'Marble Queen'",
+        "kor": "스킨답서스 화이트 마블퀸 (마블퀸 스킨답서스)"
+    },
+    "061": {
+        "eng": "Hoya kerrii",
+        "kor": "하트 호야 (호야 케리)"
+    },
+    "062": {
+        "eng": "Codiaeum variegatum 'Banana'",
+        "kor": "바나나 크로톤"
+    },
+    "063": {
+        "eng": "Coniogramme emeiensis 'Golden Zebra'",
+        "kor": "코니오그램 에메이엔시스 '골든 제브라'"
+    },
+    "064": {
+        "eng": "Begonia conchifolia var. rubrimacula",
+        "kor": "베고니아 콘치폴리아"
+    },
+    "065": {
+        "eng": "Syngonium podophyllum 'Milk Confetti'",
+        "kor": "싱고니움 밀크컨페티"
+    },
+    "066": {
+        "eng": "Philodendron hederaceum var. oxycardium 'Brasil'",
+        "kor": "필로덴드론 옥시카르디움 '브라질'"
+    },
+    "067": {
+        "eng": "Epipremnum aureum 'Neon'",
+        "kor": "형광 스킨답서스 ("
+    },
+    "068": {
+        "eng": "Eriocactus leninghausii",
+        "kor": "금황환 선인장"
+    },
+    "069": {
+        "eng": "Lithops spp.",
+        "kor": "리톱스"
+    },
+    "070": {
+        "eng": "Pleiospilos nelii",
+        "kor": "제옥 (플레이오스필로스 넬리)"
+    },
+    "071": {
+        "eng": "Rhaphidophora decursiva",
+        "kor": "라피도포라 디컬시바"
+    },
+    "072": {
+        "eng": "Philodendron 'Burle Marx'",
+        "kor": "필로덴드론 버럴 막스"
+    },
+    "073": {
+        "eng": "Ficus elastica 'Shivereana'",
+        "kor": "쉬베리아나 고무나무"
+    },
+    "074": {
+        "eng": "Syngonium podophyllum 'Silver Dwarf'",
+        "kor": "싱고니움 실버 드워프"
+    },
+    "075": {
+        "eng": "Begonia (flower)",
+        "kor": "꽃 베고니아"
+    },
+    "076": {
+        "eng": "Begonia 'Angel Wing'",
+        "kor": "목 베고니아"
+    },
+    "077": {
+        "eng": "Philodendron 'Congo'",
+        "kor": "필로덴드론 콩고"
+    },
+    "078": {
+        "eng": "Philodendron pastazanum",
+        "kor": "필로덴드론 파스타짜넘"
+    },
+    "079": {
+        "eng": "Philodendron nangaritense",
+        "kor": "필로덴드론 낭가리텐스"
+    },
+    "080": {
+        "eng": "Syzygium australe",
+        "kor": "피어리스 (시기지움)"
+    },
+    "081": {
+        "eng": "Aglaonema 'Snow White'",
+        "kor": "아글라오네마 스노우 사파이어"
+    },
+    "082": {
+        "eng": "Dieffenbachia maculata 'Marianne'",
+        "kor": "디펜바키아 마리안느"
+    },
+    "083": {
+        "eng": "Goeppertia hybrid",
+        "kor": "칼라데아 뷰티스타"
+    },
+    "084": {
+        "eng": "Goeppertia makoyana",
+        "kor": "칼라데아 마코야나"
+    },
+    "085": {
+        "eng": "Syngonium podophyllym 'Green Splash'",
+        "kor": "싱고니움 그린 스플래쉬"
+    },
+    "086": {
+        "eng": "Ficus elastica",
+        "kor": "인도 고무나무"
+    },
+    "087": {
+        "eng": "Ficus benjamina 'Variegata'",
+        "kor": "무늬 벤자민 고무나무"
+    },
+    "088": {
+        "eng": "Philodendron gloriosum",
+        "kor": "필로덴드론 글로리오섬"
+    },
+    "089": {
+        "eng": "Fittonia spp.",
+        "kor": "피토니아 (휘토니아)"
+    },
+    "090": {
+        "eng": "Breynia nivosa",
+        "kor": "소코라코 (브레이니아 니보사)"
+    },
+    "091": {
+        "eng": "Murraya paniculata",
+        "kor": "오렌지 자스민"
+    },
+    "092": {
+        "eng": "Peperomia obtusifolia",
+        "kor": "청페페"
+    },
+    "093": {
+        "eng": "Caladium spp.",
+        "kor": "칼라디움"
+    },
+    "094": {
+        "eng": "Dianthus caryophyllus",
+        "kor": "카네이션"
+    },
+    "095": {
+        "eng": "Eucalyptus gunnii",
+        "kor": "유칼립투스 구니"
+    },
+    "096": {
+        "eng": "Consolea rubescens",
+        "kor": "만세 선인장"
+    },
+    "097": {
+        "eng": "Crassula muscosa",
+        "kor": "녹탑"
+    },
+    "098": {
+        "eng": "Lavandula allardii 'Meerlo'",
+        "kor": "무늬 라벤더 (황금 라벤더)"
+    },
+    "099": {
+        "eng": "Ocimum Basilicum",
+        "kor": "스위트 바질"
+    },
+    "100": {
+        "eng": "Ocimum basilicum var. minimum",
+        "kor": "바질트리"
+    },
+    "101": {
+        "eng": "Peperomia carperata rossa",
+        "kor": "페페로미아 에덴로소"
+    },
+    "102": {
+        "eng": "Philodendron 'Paraiso Verde'",
+        "kor": "필로덴드론 파라이소 베르디"
+    },
+    "103": {
+        "eng": "Cordyline terminalis 'Chocolate Queen'",
+        "kor": "코르딜리네 초콜릿퀸"
+    },
+    "104": {
+        "eng": "Dieffenbachia maculata 'Tropical Tiki'",
+        "kor": "디펜바키아 실버다이아"
+    },
+    "105": {
+        "eng": "Guzmania spp.",
+        "kor": "구즈마니아"
+    },
+    "106": {
+        "eng": "Asparagus densiflorus 'Myers'",
+        "kor": "아스파라거스 메이리"
+    },
+    "107": {
+        "eng": "Portulaca molokiniensis",
+        "kor": "녹비단"
+    },
+    "108": {
+        "eng": "Syngonium podophyllym 'Magic Marble'",
+        "kor": "싱고니움 매직 마블"
+    },
+    "109": {
+        "eng": "Syngonium podophyllum albo variegata 'White Fantasy'",
+        "kor": "무늬 싱고니움 (싱고니움 알보 바리에가타)"
+    },
+    "110": {
+        "eng": "Syngonium podophyllum 'Strawberry Ice'",
+        "kor": "싱고니움 핑크 쥬얼리 (스트로베리 아이스)"
+    },
+    "111": {
+        "eng": "Syngonium podophyllum 'Pink Spot'",
+        "kor": "싱고니움 핑크스팟"
+    },
+    "112": {
+        "eng": "Cereus jamacaru",
+        "kor": "귀면각 선인장 (연성각)"
+    },
+    "113": {
+        "eng": "Senecio rowleyanus",
+        "kor": "녹영 (콩란)"
+    },
+    "114": {
+        "eng": "Anthurium 'Arrow'",
+        "kor": "안스리움 애로우"
+    },
+    "115": {
+        "eng": "Caladium praetermissum 'Hilo Beauty'",
+        "kor": "칼라디움 힐로뷰티 (뷰티히로)"
+    },
+    "116": {
+        "eng": "Syngonium Wendlandii Schott",
+        "kor": "싱고니움 웬들란디 (벨벳 싱고니움)"
+    },
+    "117": {
+        "eng": "Syngonium podophyllum 'Red Spot'",
+        "kor": "싱고니움 레드스팟"
+    },
+    "118": {
+        "eng": "Syngonium podophyllum 'Glo-go'",
+        "kor": "싱고니움 글로고"
+    },
+    "119": {
+        "eng": "Portulacaria afra 'Variegata'",
+        "kor": "핑크 은행목 (핑크 아악무)"
+    },
+    "120": {
+        "eng": "Euphorbia hypogaea",
+        "kor": "괴마옥 (파인애플 선인장)"
+    },
+    "121": {
+        "eng": "Hydrangea spp.",
+        "kor": "수국"
+    },
+    "122": {
+        "eng": "Ficus umbellata",
+        "kor": "휘커스 움베르타 (움벨라타 고무나무)"
+    },
+    "123": {
+        "eng": "Peperomia obtusifuolia 'Variegata'",
+        "kor": "무늬 페페"
+    },
+    "124": {
+        "eng": "Pachypodium rosulatum 'Horombense'",
+        "kor": "파키포디움 호롬벤세"
+    },
+    "125": {
+        "eng": "Ficus elastica 'Ruby'",
+        "kor": "루비 고무나무"
+    },
+    "126": {
+        "eng": "Philodendron Pedatum 'Florida Beauty'",
+        "kor": "필로덴드론 플로리다 뷰티"
+    },
+    "127": {
+        "eng": "Philodendron Pedatum 'Florida Green'",
+        "kor": "필로덴드론 플로리다 그린"
+    },
+    "128": {
+        "eng": "Euphorbia lactea 'White Ghost'",
+        "kor": "화이트 고스트"
+    },
+    "129": {
+        "eng": "Anthurium spp.",
+        "kor": "안스리움"
+    },
+    "130": {
+        "eng": "Ficus benjamina",
+        "kor": "벤자민 고무나무"
+    },
+    "131": {
+        "eng": "Ctenanthe lubbersiana",
+        "kor": "크테난테 루베르시아나"
+    },
+    "132": {
+        "eng": "Goeppertia insignis",
+        "kor": "칼라데아 인시그니스"
+    },
+    "133": {
+        "eng": "Philodendron Hastatum 'Silver Sword'",
+        "kor": "필로덴드론 실버 스워드"
+    },
+    "134": {
+        "eng": "Solanum pseudocapsicum",
+        "kor": "옥천 앵두 (예루살렘 체리)"
+    },
+    "135": {
+        "eng": "Philodendron warscewiczii 'Aurea Flavum'",
+        "kor": "골드 셀렘 (필로덴드론 바르세비치 아우레아)"
+    },
+    "136": {
+        "eng": "Schefflera arboricola 'Hong Kong Variegata'",
+        "kor": "무늬 홍콩야자"
+    },
+    "137": {
+        "eng": "Dendropanax morbiferus",
+        "kor": "황칠나무"
+    },
+    "138": {
+        "eng": "Tillandsia ionantha",
+        "kor": "틸란드시아 이오난사"
+    },
+    "139": {
+        "eng": "Codiaeum variegatum",
+        "kor": "크로톤"
+    },
+    "140": {
+        "eng": "Ficus benghalensis",
+        "kor": "벵갈 고무나무"
+    },
+    "141": {
+        "eng": "Howea forsteriana",
+        "kor": "켄차 야자"
+    },
+    "142": {
+        "eng": "Philodendron bipinnatifidum",
+        "kor": "호프 셀렘 (필로덴드론 바이피나티피덤)"
+    },
+    "143": {
+        "eng": "Philodendron melanocrhysum",
+        "kor": "필로덴드론 멜라노크리섬"
+    },
+    "144": {
+        "eng": "Philodendron Pedatum 'Florida Ghost'",
+        "kor": "필로덴드론 플로리다 고스트"
+    },
+    "145": {
+        "eng": "Philodendron erubescens 'White Princess'",
+        "kor": "필로덴드론 화이트 프린세스"
+    },
+    "146": {
+        "eng": "Goeppertia Orbifolia",
+        "kor": "칼라데아 오르비폴리아"
+    },
+    "147": {
+        "eng": "Asplenium nidus 'Campio'",
+        "kor": "캄피오 아비스 (아스플레니움 니두스 캄피오)"
+    },
+    "148": {
+        "eng": "Begonia rex",
+        "kor": "렉스 베고니아"
+    },
+    "149": {
+        "eng": "Maranta leuconeura var. kerchoviana",
+        "kor": "그린 마란타 (마란타 커초비아나)"
+    },
+    "150": {
+        "eng": "Maranta leuconeura var. erythroneura",
+        "kor": "마란타 류코뉴라"
+    },
+    "151": {
+        "eng": "Philodendron erubescens 'pink princess'",
+        "kor": "필로덴드론 핑크 프린세스"
+    },
+    "152": {
+        "eng": "Philodendron erubescens 'Pink Congo'",
+        "kor": "필로덴드론 핑크 콩고 (핑크 콩고)"
+    },
+    "153": {
+        "eng": "Stromanthe sanguinea",
+        "kor": "칼라데아 스트로만데 (스트로만테 멀티컬러)"
+    },
+    "154": {
+        "eng": "Goeppertia lietzei 'White Fusion'",
+        "kor": "칼라데아 퓨전화이트"
+    },
+    "155": {
+        "eng": "Ficus binnendijkii 'Alii'",
+        "kor": "알리 고무나무"
+    },
+    "156": {
+        "eng": "Mimosa pudica",
+        "kor": "미모사"
+    },
+    "157": {
+        "eng": "Dracaena sanderiana 'Virens'",
+        "kor": "개운죽"
+    },
+    "158": {
+        "eng": "Nandina domestica",
+        "kor": "남천"
+    },
+    "159": {
+        "eng": "Plectranthus hadiensis var. tomentosus",
+        "kor": "장미허브"
+    },
+    "160": {
+        "eng": "Sansevieria trifasciat",
+        "kor": "산세베리아"
+    },
+    "161": {
+        "eng": "Platycerium spp.",
+        "kor": "박쥐란"
+    },
+    "162": {
+        "eng": "Alocasia odora",
+        "kor": "알로카시아 오도라"
+    },
+    "163": {
+        "eng": "Philodendron selloum",
+        "kor": "필로덴드론 셀로움"
+    },
+    "164": {
+        "eng": "Eucalyptus polyanthemos",
+        "kor": "유칼립투스 폴리안"
+    },
+    "165": {
+        "eng": "Peperomia argyreia",
+        "kor": "수박 페페로미아"
+    },
+    "166": {
+        "eng": "Alocasia micholitziana 'Frydek'",
+        "kor": "알로카시아 프라이덱"
+    },
+    "167": {
+        "eng": "Philodendron Birkin",
+        "kor": "필로덴드론 버킨 (무늬 콩고)"
+    },
+    "168": {
+        "eng": "Monstera delisiosa var. borsigiana albo variegata",
+        "kor": "알보 몬스테라 (몬스테라 알보 바리에가타)"
+    },
+    "169": {
+        "eng": "Dracaena fragrans 'Massangeana'",
+        "kor": "드라세나 맛상게아나 (행운목)"
+    },
+    "170": {
+        "eng": "Heteropanax fragrans",
+        "kor": "해피트리"
+    },
+    "171": {
+        "eng": "Chrysalidocarpus lutescens",
+        "kor": "아레카 야자"
+    },
+    "172": {
+        "eng": "Ravenala madagascariensis",
+        "kor": "여인초"
+    },
+    "173": {
+        "eng": "Myrtus communis",
+        "kor": "머틀 허브나무"
+    },
+    "174": {
+        "eng": "Rhapis excelsa",
+        "kor": "관음죽"
+    },
+    "175": {
+        "eng": "Hoya carnosa",
+        "kor": "호야 카르노사 (무늬 호야)"
+    },
+    "176": {
+        "eng": "Pachira aquatica",
+        "kor": "파키라"
+    },
+    "177": {
+        "eng": "Rosmarinus officinalis",
+        "kor": "로즈마리"
+    },
+    "178": {
+        "eng": "Adenium obesum",
+        "kor": "아데니움 (사막의 장미)"
+    },
+    "179": {
+        "eng": "Rhaphidophora tetrasperma",
+        "kor": "히메 몬스테라 (미니 몬스테라)"
+    },
+    "180": {
+        "eng": "Schefflera arboricola",
+        "kor": "홍콩야자 (쉐프렐라 홍콩)"
+    },
+    "181": {
+        "eng": "Ardisia crenata 'Beni Kujaku'",
+        "kor": "홍공작 (무늬 백량금)"
+    },
+    "182": {
+        "eng": "Pilea peperomioides",
+        "kor": "필레아 페페로미오이데스"
+    },
+    "183": {
+        "eng": "Pteris cretica",
+        "kor": "프테리스 고사리"
+    },
+    "184": {
+        "eng": "Chamaedorea elegans",
+        "kor": "테이블야자"
+    },
+    "185": {
+        "eng": "Goeppertia Concinna 'Freddie'",
+        "kor": "칼라데아 프레디 (칼라데아 콘친나)"
+    },
+    "186": {
+        "eng": "Goeppertia Ornata 'Sanderiana'",
+        "kor": "칼라데아 진저 (칼라데아 오나타)"
+    },
+    "187": {
+        "eng": "Ctenanthe burle-marxii 'Amagris'",
+        "kor": "칼라데아 아마그리스 (크테난테 아마그리스)"
+    },
+    "188": {
+        "eng": "Euphorbia tirucalli",
+        "kor": "청산호 (연필 선인장)"
+    },
+    "189": {
+        "eng": "Cupressus macrocarpa 'Wilma Goldcrest'",
+        "kor": "율마 (윌마)"
+    },
+    "190": {
+        "eng": "Olea europaea",
+        "kor": "올리브 나무"
+    },
+    "191": {
+        "eng": "Trachelospermum asiaticum 'Hatuyukikazura'",
+        "kor": "오색 마삭줄 (초설 마삭줄)"
+    },
+    "192": {
+        "eng": "Hedera helix",
+        "kor": "아이비 (헤데라)"
+    },
+    "193": {
+        "eng": "Asparagus setaceus",
+        "kor": "아스파라거스 나누스"
+    },
+    "194": {
+        "eng": "Asplenium nidus 'avis'",
+        "kor": "아비스"
+    },
+    "195": {
+        "eng": "Araucaria heterophylla",
+        "kor": "아라우카리아"
+    },
+    "196": {
+        "eng": "Spathiphyllum wallisii",
+        "kor": "스파티필름"
+    },
+    "197": {
+        "eng": "Syngonium podophyllum 'Neon'",
+        "kor": "핑크 싱고니움 (네온 싱고니움)"
+    },
+    "198": {
+        "eng": "Syngonium podophyllum",
+        "kor": "싱고니움"
+    },
+    "199": {
+        "eng": "Juncus effusus 'Spiralis'",
+        "kor": "스프링 골풀 (스프링 준쿠스)"
+    },
+    "200": {
+        "eng": "Sansevieria cylindrica",
+        "kor": "스투키"
+    },
+    "201": {
+        "eng": "Epipremnum aureum",
+        "kor": "스킨답서스"
+    },
+    "202": {
+        "eng": "Spathiphyllum 'White Stripe'",
+        "kor": "스노우 스파티필름"
+    },
+    "203": {
+        "eng": "Ficus elastica 'Tineke'",
+        "kor": "수채화 고무나무"
+    },
+    "204": {
+        "eng": "Cycas revoluta",
+        "kor": "소철"
+    },
+    "205": {
+        "eng": "Selenicereus anthonyanus",
+        "kor": "피쉬본 선인장 (생선뼈 선인장)"
+    },
+    "206": {
+        "eng": "Sansevieria trifasciata 'Moonshine'",
+        "kor": "산세베리아 문샤인"
+    },
+    "207": {
+        "eng": "chamaecyparis pisifera 'boulevard'",
+        "kor": "비단 삼나무 (블루버드)"
+    },
+    "208": {
+        "eng": "Phlebodium aureum",
+        "kor": "블루스타 고사리"
+    },
+    "209": {
+        "eng": "Nephrolepis exaltata 'Bostoniensis'",
+        "kor": "보스턴 고사리"
+    },
+    "210": {
+        "eng": "Aloe arborescens",
+        "kor": "미니 알로에"
+    },
+    "211": {
+        "eng": "Hedera helix 'Glacier'",
+        "kor": "무늬 아이비"
+    },
+    "212": {
+        "eng": "Monstera adansonii",
+        "kor": "몬스테라 아단소니"
+    },
+    "213": {
+        "eng": "Monstera deliciosa",
+        "kor": "몬스테라 델리시오사"
+    },
+    "214": {
+        "eng": "Ficus elastica 'Robusta'",
+        "kor": "멜라니 고무나무"
+    },
+    "215": {
+        "eng": "Corokia cotoneaster",
+        "kor": "마오리 코로키아"
+    },
+    "216": {
+        "eng": "Sophora prostrata 'Little Baby'",
+        "kor": "마오리 소포라"
+    },
+    "217": {
+        "eng": "Ficus lyrata",
+        "kor": "떡갈잎 고무나무"
+    },
+    "218": {
+        "eng": "Dizygotheca elegantissima",
+        "kor": "디지고테카 아랄리아"
+    },
+    "219": {
+        "eng": "Dracaena marginata",
+        "kor": "드라세나 마지나타"
+    },
+    "220": {
+        "eng": "Beaucarnea recurvata",
+        "kor": "덕구리 난"
+    },
+    "221": {
+        "eng": "Zamioculcas zamiifolia",
+        "kor": "금전수 (돈나무)"
+    },
+    "222": {
+        "eng": "Epipremnum aureum 'Njoy'",
+        "kor": "엔조이 스킨답서스"
+    },
+    "223": {
+        "eng": "Chamaecyparis thyoides 'Excellent Point'",
+        "kor": "엑셀런트 포인트 (네덜란드 편백)"
+    },
+    "224": {
+        "eng": "Salvia greggii",
+        "kor": "체리 세이지"
+    },
+    "225": {
+        "eng": "Coleus spp.",
+        "kor": "콜레우스"
+    },
+    "226": {
+        "eng": "Argyranthemum frutescens",
+        "kor": "목마가렛"
+    },
+    "227": {
+        "eng": "Haworthia obtusa",
+        "kor": "하월시아 옵투사"
+    },
+    "228": {
+        "eng": "Conophytum bilobum",
+        "kor": "축전"
+    },
+    "229": {
+        "eng": "Ficus petiolaris",
+        "kor": "휘커스 페티올라리스"
+    },
+    "230": {
+        "eng": "Alocasia Sarian",
+        "kor": "알로카시아 사리안"
+    },
+    "231": {
+        "eng": "Alocasia 'Black Velvet'",
+        "kor": "알로카시아 블랙벨벳"
+    },
+    "232": {
+        "eng": "Cupressus arizonica 'Sulphurea'",
+        "kor": "썰프레아"
+    },
+    "233": {
+        "eng": "Cupressus arizonica var. glabra 'Blue ice'",
+        "kor": "블루 아이스"
+    },
+    "234": {
+        "eng": "Phlebodium aureum 'Davana'",
+        "kor": "다바나 고사리"
+    },
+    "235": {
+        "eng": "Humata tyermannii",
+        "kor": "상록 넉줄 고사리 (후마타 고사리)"
+    },
+    "236": {
+        "eng": "Jasminum polyanthum",
+        "kor": "학 자스민"
+    },
+    "237": {
+        "eng": "Dracaena trifasciata 'Hahnii'",
+        "kor": "산세베리아 하니"
+    },
+    "238": {
+        "eng": "Muehlenbeckia complexa",
+        "kor": "트리안 (뮤렌베키아)"
+    },
+    "239": {
+        "eng": "Tulipa gesneriana",
+        "kor": "튤립"
+    },
+    "240": {
+        "eng": "Pilea glauca",
+        "kor": "타라 (블루 체인)"
+    },
+    "241": {
+        "eng": "Clusia rosea",
+        "kor": "크루시아"
+    },
+    "242": {
+        "eng": "Ardisia japonica",
+        "kor": "천냥금"
+    },
+    "243": {
+        "eng": "Peperomia puteolata",
+        "kor": "줄리아 페페 (아몬드 페페)"
+    },
+    "244": {
+        "eng": "Rosa spp.",
+        "kor": "장미"
+    },
+    "245": {
+        "eng": "Eucalyptus cladocalyx",
+        "kor": "유칼립투스 슈가검"
+    },
+    "246": {
+        "eng": "Hydrocotyle verticillata",
+        "kor": "워터 코인"
+    },
+    "247": {
+        "eng": "Chamelaucium uncinatum",
+        "kor": "왁스 플라워"
+    },
+    "248": {
+        "eng": "Iresine herbstii 'Aureoreticulata'",
+        "kor": "오로라 페페"
+    },
+    "249": {
+        "eng": "Dracaena sanderiana",
+        "kor": "연화죽"
+    },
+    "250": {
+        "eng": "Cyclamen persicum",
+        "kor": "시클라멘"
+    },
+    "251": {
+        "eng": "Sansevieria Trifasciata 'Futura Superba'",
+        "kor": "산세베리아 슈퍼바"
+    },
+    "252": {
+        "eng": "Xanthosoma lindenii",
+        "kor": "산토소마 린드니"
+    },
+    "253": {
+        "eng": "Ardisia pusilla",
+        "kor": "산호수"
+    },
+    "254": {
+        "eng": "Ficus benjamina 'Barok'",
+        "kor": "바로크 벤자민"
+    },
+    "255": {
+        "eng": "Ardisia pusilla Variegata",
+        "kor": "무늬 산호수"
+    },
+    "256": {
+        "eng": "Zamia furfuracea",
+        "kor": "멕시코 소철"
+    },
+    "257": {
+        "eng": "Opuntia monacantha",
+        "kor": "마블 선인장"
+    },
+    "258": {
+        "eng": "Dischidia imbricata",
+        "kor": "디시디아 넘초크"
+    },
+    "259": {
+        "eng": "Dischidia ovata",
+        "kor": "디시디아 멜론"
+    },
+    "260": {
+        "eng": "Dischidia ruscifolia",
+        "kor": "디시디아 밀리언하트"
+    },
+    "261": {
+        "eng": "Dischidia oiantha",
+        "kor": "디시디아 애플"
+    },
+    "262": {
+        "eng": "Dischidia oinantha variegata",
+        "kor": "디시디아 화이트"
+    },
+    "263": {
+        "eng": "Nephrolepis cordifolia 'Duffi'",
+        "kor": "더피 고사리"
+    },
+    "264": {
+        "eng": "Mammillaria gracilis cv. Arizona Snowcap",
+        "kor": "눈꽃 선인장"
+    },
+    "265": {
+        "eng": "Euonymus japonica",
+        "kor": "금사철 (황금사철)"
+    },
+    "266": {
+        "eng": "Tillandsia juncea",
+        "kor": "틸란드시아 준세아"
+    },
+    "267": {
+        "eng": "Tillandsia filifolia",
+        "kor": "틸란드시아 필리폴리아"
+    },
+    "268": {
+        "eng": "Tillandsia ionantha 'Druid'",
+        "kor": "틸란드시아 드루이드"
+    },
+    "269": {
+        "eng": "Tillandsia seleriana",
+        "kor": "틸란드시아 셀레리아나"
+    },
+    "270": {
+        "eng": "Tillandsia argentea",
+        "kor": "틸란드시아 아르젠티아"
+    },
+    "271": {
+        "eng": "Tillandsia baileyi",
+        "kor": "틸란드시아 바일레이"
+    },
+    "272": {
+        "eng": "Tillandsia caput medusae",
+        "kor": "틸란드시아 카풋 메두사"
+    },
+    "273": {
+        "eng": "Tillandsia houston",
+        "kor": "틸란드시아 휴스톤"
+    },
+    "274": {
+        "eng": "Tillandisa aeranthos",
+        "kor": "틸란드시아 애란토스"
+    },
+    "275": {
+        "eng": "Tillandsia stricta",
+        "kor": "틸란드시아 스트릭타"
+    },
+    "276": {
+        "eng": "Tillandsia schiedeana",
+        "kor": "틸란드시아 쉬데이아나"
+    },
+    "277": {
+        "eng": "Peperomia pepperspot",
+        "kor": "페페로미아 페퍼스팟"
+    },
+    "278": {
+        "eng": "Tillandsia ionantha 'Fuego'",
+        "kor": "틸란드시아 푸에고"
+    },
+    "279": {
+        "eng": "Phoenix roebelenii",
+        "kor": "비스마르크 야자"
+    },
+    "280": {
+        "eng": "Dioon edule",
+        "kor": "디운 에둘레 소철"
+    },
+    "281": {
+        "eng": "Encephalartos horridus",
+        "kor": "호리더스 소철"
+    },
+    "282": {
+        "eng": "Macrozamia moorei",
+        "kor": "무레이 소철"
+    },
+    "283": {
+        "eng": "Cycas debaoensis",
+        "kor": "디바오 소철"
+    },
+    "284": {
+        "eng": "Fatshedera lizei",
+        "kor": "팻츠 헤데라"
+    },
+    "285": {
+        "eng": "Euphorbia cotinifolia",
+        "kor": "초코리프"
+    },
+    "286": {
+        "eng": "Anthurium regale",
+        "kor": "안스리움 리갈레"
+    },
+    "287": {
+        "eng": "Anthurium forgetii",
+        "kor": "안스리움 포게티"
+    },
+    "288": {
+        "eng": "Anthurium crystallinum",
+        "kor": "안스리움 크리스탈리넘"
+    },
+    "289": {
+        "eng": "Anthurium clarinervium",
+        "kor": "안스리움 클라리네비움"
+    },
+    "290": {
+        "eng": "Cytisus scoparius",
+        "kor": "애니시다 (양골담초)"
+    },
+    "291": {
+        "eng": "Aeonium arboreum",
+        "kor": "흑법사"
+    },
+    "292": {
+        "eng": "Crassula ovata",
+        "kor": "염자"
+    },
+    "293": {
+        "eng": "Peperomia prostrata",
+        "kor": "페페로미아 프로스트라타"
+    },
+    "294": {
+        "eng": "Camellia japonica",
+        "kor": "동백나무"
+    },
+    "295": {
+        "eng": "Acacia podalyriifolia",
+        "kor": "둥근 잎 아카시아"
+    },
+    "296": {
+        "eng": "Acacia longifolia",
+        "kor": "긴 잎 아카시아"
+    },
+    "297": {
+        "eng": "Narcissus spp.",
+        "kor": "수선화"
+    },
+    "298": {
+        "eng": "Philodendron 'Lemon Lime'",
+        "kor": "필로덴드론 레몬라임 (형광 필로덴드론)"
+    },
+    "299": {
+        "eng": "Philodendron mamei",
+        "kor": "필로덴드론 마메이"
+    },
+    "300": {
+        "eng": "Philodendron verrucosum x melanochrysum",
+        "kor": "필로덴드론 스플렌디드 (베멜하)"
+    },
+    "301": {
+        "eng": "Philodendron verrucosum",
+        "kor": "필로덴드론 베루코섬"
+    },
+    "302": {
+        "eng": "Philodendron plowmanii",
+        "kor": "필로덴드론 플로우마니"
+    },
+    "303": {
+        "eng": "Saintpaulia spp. (mini)",
+        "kor": "아프리칸 미니바이올렛"
+    },
+    "304": {
+        "eng": "Saintpaulia spp.",
+        "kor": "아프리칸 바이올렛"
+    },
+    "305": {
+        "eng": "Pelargonium spp.",
+        "kor": "제라늄"
+    },
+    "306": {
+        "eng": "Oxalis obtusa (Wood-Sorrel)",
+        "kor": "사랑초 옵투사 (옥살리스)"
+    },
+    "307": {
+        "eng": "Hyacinthus orientalis",
+        "kor": "히아신스"
+    },
+    "308": {
+        "eng": "Jasminum sambac",
+        "kor": "아라비안 자스민 (함박 자스민)"
+    },
+    "309": {
+        "eng": "Gelsemium sempervirens",
+        "kor": "개나리 자스민 (캐롤라이나 자스민)"
+    },
+    "310": {
+        "eng": "Freesia refracta",
+        "kor": "프리지아"
+    },
+    "311": {
+        "eng": "Aglaonema commutatum",
+        "kor": "아글라오네마 그린아트"
+    },
+    "312": {
+        "eng": "Muscari armeniacum",
+        "kor": "무스카리"
+    },
+    "313": {
+        "eng": "Leucadendron salignum",
+        "kor": "레우카덴드론 (루카덴드론)"
+    },
+    "314": {
+        "eng": "Ctenanthe setosa 'Grey Star'",
+        "kor": "칼라데아 그레이스타 (크테난테 세토사)"
+    },
+    "315": {
+        "eng": "Dieffenbachia amoena 'Tropic snow'",
+        "kor": "디펜바키아 트로픽스노우"
+    },
+    "316": {
+        "eng": "Gibasis geniculata",
+        "kor": "실달개비 (지바시스, 엘레강스)"
+    },
+    "317": {
+        "eng": "Leptospermum scoparium",
+        "kor": "호주매화 (마누카)"
+    },
+    "318": {
+        "eng": "Eulychnia castanea 'Varispiralis'",
+        "kor": "율리치아나 스프랄리스"
+    },
+    "319": {
+        "eng": "Aechmea Fasciata",
+        "kor": "에크메아 파시아타"
+    },
+    "320": {
+        "eng": "Rhoeo discolor",
+        "kor": "자주 만년초 (부자란)"
+    },
+    "321": {
+        "eng": "Melaleuca alternifolia",
+        "kor": "티트리"
+    },
+    "322": {
+        "eng": "Cocos Nucifera",
+        "kor": "코코스 야자 (코코넛 야자)"
+    },
+    "323": {
+        "eng": "Senecio candicans 'Angel wings'",
+        "kor": "세네시오 칸디칸스 (엔젤윙)"
+    },
+    "324": {
+        "eng": "Fatsia japonica",
+        "kor": "팔손이 나무"
+    },
+    "325": {
+        "eng": "Hoya carnosa 'Compacta'",
+        "kor": "호야 콤팩타 (리본호야)"
+    },
+    "326": {
+        "eng": "Tillandsia usneoides",
+        "kor": "수염 틸란드시아"
+    },
+    "327": {
+        "eng": "Jacobaea maritima",
+        "kor": "백묘국"
+    },
+    "328": {
+        "eng": "Tillandsia Cyanea",
+        "kor": "틸란드시아 시아네아"
+    },
+    "329": {
+        "eng": "Acacia dealbata",
+        "kor": "은엽 아카시아"
+    },
+    "330": {
+        "eng": "Festuca glauca",
+        "kor": "은사초"
+    },
+    "331": {
+        "eng": "Leucophyta Brownii",
+        "kor": "쿠션부쉬"
+    },
+    "332": {
+        "eng": "Striped Dracaena",
+        "kor": "드라세나 와네키"
+    },
+    "333": {
+        "eng": "Phoenix roebelenii",
+        "kor": "피닉스 야자"
+    },
+    "334": {
+        "eng": "Dracaena deremensis 'Compacta'",
+        "kor": "드라세나 콤팩타"
+    },
+    "335": {
+        "eng": "Cleistocactus colademononis",
+        "kor": "원숭이 꼬리 선인장"
+    },
+    "336": {
+        "eng": "Asplenium nidus 'Cobra'",
+        "kor": "코브라 아비스"
+    },
+    "337": {
+        "eng": "Euphorbia trigona",
+        "kor": "청하각 (오채각)"
+    },
+    "338": {
+        "eng": "Alocasia amazonica",
+        "kor": "알로카시아 아마조니카"
+    },
+    "339": {
+        "eng": "Xerosicyos danguyi",
+        "kor": "녹태고"
+    },
+    "340": {
+        "eng": "Opuntia microdasys var. albispina Fobe.",
+        "kor": "백도선 선인장"
+    },
+    "341": {
+        "eng": "Marginatocereus marginatus",
+        "kor": "백운각"
+    },
+    "342": {
+        "eng": "Haworthia fasciata",
+        "kor": "십이지권"
+    },
+    "343": {
+        "eng": "Pilosocereus pachycladus",
+        "kor": "금청각"
+    },
+    "344": {
+        "eng": "Lycopodium clavatum",
+        "kor": "석송"
+    },
+    "345": {
+        "eng": "Ficus pumila variegata",
+        "kor": "무늬 푸미라"
+    },
+    "346": {
+        "eng": "Melissa officinalis",
+        "kor": "레몬밤"
+    },
+    "347": {
+        "eng": "Aspidistra elatior",
+        "kor": "엽란"
+    },
+    "348": {
+        "eng": "Musa spp. (house plant)",
+        "kor": "바나나"
+    },
+    "349": {
+        "eng": "Oxalis triangularis",
+        "kor": "보라 사랑초"
+    },
+    "350": {
+        "eng": "Ceropegia woodii",
+        "kor": "러브체인"
+    },
+    "351": {
+        "eng": "Dracaena draco",
+        "kor": "드라세나 드라코 (용혈수)"
+    },
+    "352": {
+        "eng": "Agave attenuata",
+        "kor": "아가베 아테누아타"
+    },
+    "353": {
+        "eng": "Tillandsia xerographica",
+        "kor": "틸란시아 세로그라피카"
+    },
+    "354": {
+        "eng": "Tillandsia funckiana",
+        "kor": "틸란드시아 푼키아나"
+    },
+    "355": {
+        "eng": "Rhipsalis trigona",
+        "kor": "립살리스 트리고나"
+    },
+    "356": {
+        "eng": "Myrtillocactus geometrizans",
+        "kor": "용신목"
+    },
+    "357": {
+        "eng": "Gymnocalycium baldianum",
+        "kor": "비화옥"
+    },
+    "358": {
+        "eng": "Fortunella japonica var. margarita",
+        "kor": "사계귤 (유주나무)"
+    },
+    "359": {
+        "eng": "Mentha x piperita",
+        "kor": "페퍼민트"
+    },
+    "360": {
+        "eng": "Lavendula spp.",
+        "kor": "라벤더"
+    },
+    "361": {
+        "eng": "Yucca spp.",
+        "kor": "유카"
+    },
+    "362": {
+        "eng": "Strelitzia reginae",
+        "kor": "극락조화"
+    },
+    "363": {
+        "eng": "Kalanchoe blossfeldiana",
+        "kor": "칼랑코에"
+    },
+    "364": {
+        "eng": "Aloe Barbadensis Miller",
+        "kor": "알로에 베라"
+    },
+    "365": {
+        "eng": "Chlorophytum comosum",
+        "kor": "나비란 (클로로피텀)"
+    },
+    "366": {
+        "eng": "Cryptanthus spp.",
+        "kor": "크립탄서스 (핑크 불가사리)"
+    },
+    "367": {
+        "eng": "Dischidia Pectinoides",
+        "kor": "포켓 디시디아"
+    }
+}
