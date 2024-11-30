@@ -12,7 +12,7 @@ import java.util.Date
     ]
 )
 data class ModuleEntity(
-    @PrimaryKey(autoGenerate = true) val uniqueId: Long = 0,
+    @PrimaryKey(autoGenerate = true) val moduleId: Long = 0,
     val myPlantId: Long,
     val lightIntensity: Float,
     val temperature: Float,

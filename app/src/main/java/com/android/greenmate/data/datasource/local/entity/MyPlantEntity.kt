@@ -8,14 +8,12 @@ import java.util.Date
 @Entity(
     tableName = "myplant",
     foreignKeys = [
-        ForeignKey(entity = PlantEntity::class, parentColumns = ["plantId"], childColumns = ["plantId"]),
-//        ForeignKey(entity = RoomEntity::class, parentColumns = ["roomId"], childColumns = ["roomId"])
+        ForeignKey(entity = PlantEntity::class, parentColumns = ["plantId"], childColumns = ["plantId"])
     ]
 )
 data class MyPlantEntity(
     @PrimaryKey(autoGenerate = true) val myPlantId: Long = 0,
     val plantId: Long,
-//    val roomId: Long,
     val category: String,
     val alias: String,
     val image: String,
