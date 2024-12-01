@@ -11,8 +11,8 @@ interface ModuleDao {
     @Insert
     suspend fun insertModule(module: ModuleEntity)
 
-    @Query("SELECT * FROM module WHERE uniqueId = :uniqueId")
-    suspend fun getModuleById(uniqueId: Long): ModuleEntity?
+    @Query("SELECT * FROM module WHERE moduleId = :moduleId")
+    suspend fun getModuleById(moduleId: Long): ModuleEntity?
 
     @Query("SELECT * FROM module WHERE myPlantId = :myPlantId")
     suspend fun getModulesByMyPlantId(myPlantId: Long): List<ModuleEntity>
