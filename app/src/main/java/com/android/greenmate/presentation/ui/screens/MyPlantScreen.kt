@@ -184,7 +184,10 @@ fun MyPlantScreen(
 
     val isMyPlantDelted by myPlantDeleteViewModel.plantDeleted
 
-    plantId?.let { plantViewModel.getPlantInfoById(it) }
+    plantId?.let {
+        plantViewModel.getPlantInfoById(it)
+        plantViewModel.getPlantById(it)
+    }
 
     val plantLight by plantViewModel.light.observeAsState()
     val plantTemperature by plantViewModel.temperature.observeAsState()
@@ -2065,8 +2068,8 @@ fun plantWateringFullLess(
 fun calcSoilMoisture(
     soilMoisture: Float
 ): String {
-    val airValue = 951  //951 <<< 긴 토양모듈 / 짧은 토양모듈 >>> 765
-    val waterValue = 0  //0 <<< 긴 토양모듈 / 짧은 토양모듈 >>> 290
+    val airValue = 765  //951 <<< 긴 토양모듈 / 짧은 토양모듈 >>> 765
+    val waterValue = 290  //0 <<< 긴 토양모듈 / 짧은 토양모듈 >>> 290
 
     val intervals = (airValue - waterValue) / 5
 
