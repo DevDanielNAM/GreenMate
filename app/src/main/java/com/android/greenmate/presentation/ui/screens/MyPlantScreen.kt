@@ -1004,7 +1004,7 @@ fun MyPlantScreen(
                     Row(
                         verticalAlignment = Alignment.CenterVertically,
                         modifier = Modifier.clickable {
-                            mainPlantNavController.navigate("scan/${Uri.encode(myPlantId.toString())}")
+                            mainPlantNavController.navigate("scan_connect/${Uri.encode(myPlantId.toString())}")
                         }
                     ) {
                         Text(
