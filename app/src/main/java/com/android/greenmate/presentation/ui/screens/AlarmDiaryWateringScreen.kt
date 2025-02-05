@@ -96,10 +96,21 @@ fun AlarmDiaryWateringScreen(
     val selectedDate by calendarViewModel.selectedDate.collectAsState()
     val totalWeeks = getWeeksOfMonth(selectedDate.year, selectedDate.monthValue, selectedDate.month.maxLength())
     val selectedWeeks = getWeeksOfMonth(selectedDate.year, selectedDate.monthValue, selectedDate.dayOfMonth)
+    val weekList = mutableListOf<MutableList<LocalDate>>() // 빈 리스트 초기화
+
+    for (i in 1..selectedDate.lengthOfMonth()) {
+        val week = getWeeksOfMonth(selectedDate.year, selectedDate.monthValue, i)
+        // 필요한 만큼 리스트 추가
+        while (weekList.size < week) {
+            weekList.add(mutableListOf())
+        }
+        // 해당 주차 리스트에 날짜 추가
+        weekList[week - 1].add(LocalDate.of(selectedDate.year, selectedDate.monthValue, i))
+    }
 
     val coroutineScope = rememberCoroutineScope()
 
-    val pagerState = rememberPagerState(pageCount = {totalWeeks}, initialPage = selectedWeeks-1)
+    val pagerState = rememberPagerState(pageCount = {weekList.size}, initialPage = selectedWeeks-1)
 
     var onClickedTodayButton by remember { mutableStateOf(false) }
 
@@ -306,7 +317,7 @@ fun MonthDropdownMenu(
         expanded = expanded,
         onExpandedChange = { expanded = !expanded },
         modifier = Modifier
-            .width(screenWidth / 3.2f)
+            .width(screenWidth / 3.0f)
             .background(Color.Transparent)
     ) {
         TextField(

@@ -125,20 +125,29 @@ fun HorizontalCalendar(
 
     val selectedDate by calendarViewModel.selectedDate.collectAsState()    // 선택된 날짜
     val totalWeeks = getWeeksOfMonth(selectedDate.year, selectedDate.monthValue, selectedDate.month.maxLength())   // 선택된 달이 몇 주인지
-    val weekList = List<MutableList<LocalDate>>(totalWeeks) { mutableListOf() }    // 1주, 2주, 3주, 4주, 5주, 6주를 보관하는 리스트
+    val weekList = mutableListOf<MutableList<LocalDate>>() // 빈 리스트 초기화, 1주, 2주, 3주, 4주, 5주, 6주를 보관하는 리스트
 
     // 1일에서 마지막 일까지 n-1주차에 맞게 weekList에 저장
-    for (i in 1..selectedDate.month.maxLength()) {
+    for (i in 1..selectedDate.lengthOfMonth()) {
         val week = getWeeksOfMonth(selectedDate.year, selectedDate.monthValue, i)
-        weekList[week-1].add(LocalDate.of(selectedDate.year, selectedDate.monthValue, i))
+        // 필요한 만큼 리스트 추가
+        while (weekList.size < week) {
+            weekList.add(mutableListOf())
+        }
+        // 해당 주차 리스트에 날짜 추가
+        weekList[week - 1].add(LocalDate.of(selectedDate.year, selectedDate.monthValue, i))
     }
 
-    // 첫째주, 마지막주 비어있는 칸 채우기
-    while(weekList[0].size != 7) {
-        weekList[0].add(0, weekList[0][0].minusDays(1))
+    // 첫째 주의 빈 칸 채우기 (이전 달 날짜)
+    val firstWeekStart = weekList[0].first()
+    while (weekList[0].size < 7) {
+        weekList[0].add(0, firstWeekStart.minusDays(weekList[0].size.toLong()))
     }
-    while(weekList[totalWeeks-1].size != 7) {
-        weekList[totalWeeks-1].add(weekList[totalWeeks-1][weekList[totalWeeks-1].size-1].plusDays(1))
+
+// 마지막 주의 빈 칸 채우기 (다음 달 날짜)
+    val lastWeekEnd = weekList[totalWeeks - 1].last()
+    while (weekList[totalWeeks - 1].size < 7) {
+        weekList[totalWeeks - 1].add(lastWeekEnd.plusDays((weekList[totalWeeks - 1].size - lastWeekEnd.dayOfWeek.value).toLong()))
     }
 
     LaunchedEffect(Unit, selectedDate) {
